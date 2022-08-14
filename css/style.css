@@ -14,7 +14,7 @@
 
 body{
     position: relative;
-    background-image: url(/images/bg/main-bg.jpg);
+    background-image: url(./images/bg/main-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,7 +36,7 @@ body{
     height: 40rem;
     width: 50%;
     border-radius: 1rem;
-    background: url(/images/bg/bg_groot1.jpg);
+    background: url(./images/bg/bg_groot1.jpg);
     background-size: cover;
     background-position: center;
     min-width: 40rem;
